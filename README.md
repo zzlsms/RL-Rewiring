@@ -30,8 +30,6 @@ Once released, replace the placeholder with the Hugging Face model id:
 export SAR_MODEL=YOUR_HF_NAMESPACE/sar-checkpoint
 ```
 
-See [checkpoint publishing](docs/publishing_checkpoints.md) for uploading model
-weights from a server. Model files are excluded from Git by default.
 
 ## SAR Projection
 
