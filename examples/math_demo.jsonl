@@ -1,0 +1,3 @@
+{"id":"demo-1","prompt":"Solve the problem and return only the final answer.\n\nWhat is 2 + 2?","answer":"4"}
+{"id":"demo-2","prompt":"Solve the problem and return only the final answer.\n\nIf x + 3 = 10, what is x?","answer":"7"}
+
